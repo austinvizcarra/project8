@@ -1,0 +1,75 @@
+.top {
+background-color:yellow;
+text-align: center;
+font-weight: bold;
+font-size: 1.2em;
+padding-right: 60px;
+padding-left: 60px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-width: 3px;
+font-family: verdana;
+}
+ 
+.high {
+color: red;
+text-align: center;
+font-family: verdana;
+}
+
+.low {
+color: blue;
+text-align: center;
+font-family: verdana;
+}
+
+h1 {
+color: green;
+font-size: 200%;
+font-family: verdana;
+text-align: center;
+}
+
+.middle {
+text-align: center;
+font-family: verdana;
+}
+
+table {
+width: 650px;
+margin: auto;
+border-collapse: collapse;
+
+}
+
+td { 
+border-style: dotted; 
+border-width: 2.5px;
+border-color: blue;
+}
+
+th { 
+border-style: solid;
+border-width: 2.5px;
+
+}
+
+
+.clear {
+font-family:impact;
+color: green;
+text-align: center;
+font-size:125%;
+}
+
+.picture {
+text-align:center;
+font-size: 1%;
+}
+
+
+
+
+
+
+
